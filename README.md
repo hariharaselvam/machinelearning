@@ -16,5 +16,6 @@ Machine learning training programs
      * ``` $ pip install sklearn ```
      
 3.  Run the sample python file:
-     * ``` $ python sample.py ```
+     * ``` $ python versions.py ``` to see the versions
+     * ``` $ python sample.py ``` to see the sample
      
