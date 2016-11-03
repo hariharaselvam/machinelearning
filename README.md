@@ -9,11 +9,7 @@ Machine learning training programs
      * ``` $ source ml/bin/activate```
      
 2.  Pip install required libraries:
-     * ``` $ pip install numpy ```
-     * ``` $ pip install scipy ```
-     * ``` $ pip install matplotlib ```
-     * ``` $ pip install pandas ```
-     * ``` $ pip install sklearn ```
+     * ``` $ pip install -r requirements.txt ```
      
 3.  Run the sample python file:
      * ``` $ python versions.py ``` to see the versions
